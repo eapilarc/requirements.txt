@@ -1,0 +1,6 @@
+Plaintext
+opencv-python
+tensorflow
+py3dbp
+matplotlib
+numpy
